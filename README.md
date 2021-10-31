@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Academind Learning Project
+
+This is my own solution of the React Course Learning Project from the 2021 Academind React course (Module 8). I set this up to share my own ideas and solutions with everyone who is interested. You can download this and fork it and do whatever you like with it as long as you keep my name out!
+
+
+Below I still kept the official Guide for using this app in your browser in case you want to clone it.
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# The official Create React App stuff
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
