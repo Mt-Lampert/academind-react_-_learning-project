@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dashboard</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+    />
+    <style>
+      main {
+        margin: 0 auto;
+        padding: 3rem 4rem;
+        text-align: center;
+      }
+
+      .nav {
+        justify-content: center;
+        margin: 3rem auto;
+        padding: 1rem 0rem;
+        background-color: darkslategray;
+        color: white;
+        vertical-align: center;
+        width: 960px;
+        height: auto;
+        border-radius: 12px;
+      }
+
+      .nav-container {
+        display: flex;
+        justify-content: center;
+      }
+      button {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        padding: 1rem 2rem;
+        background-color: goldenrod;
+        border: 0 solid goldenrod;
+        border-radius: 8px;
+        font-family: "Noto Sans";
+        font-weight: bold;
+        color: #303030;
+      }
+
+      button:hover {
+          background-color: rgb(0, 134, 158);
+          color: lightgoldenrodyellow;
+      }
+
+      button ~ button {
+          margin-left: 2rem;
+      }
+    </style>
+
+    <script></script>
+  </head>
+  <body>
+    <div class="nav">
+      <div class="nav-container">
+        <button id="lading-page">Landing Page</button>
+        <button id="first-user">Adding First user</button>
+        <button id="another-user">Adding 2nd User</button>
+        <button id="error-modal">Error Modal</button>
+      </div>
+    </div>
+
+    <main>
+      <img
+        src="./landing-page__desktop.svg"
+        alt="Landing Page wireframe"
+        width="960"
+      />
+    </main>
+  </body>
+</html>
