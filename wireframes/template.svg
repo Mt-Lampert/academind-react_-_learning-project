@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1204.5289"
-   height="747.44415"
-   viewBox="0 0 318.69827 197.76127"
+   width="1200"
+   height="1800"
+   viewBox="0 0 317.49999 476.25001"
    version="1.1"
    id="svg8"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -23,28 +23,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.89688413"
-     inkscape:cx="568.07784"
-     inkscape:cy="413.65433"
+     inkscape:zoom="0.5"
+     inkscape:cx="583"
+     inkscape:cy="487"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="px"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      inkscape:pagecheckerboard="0"
      inkscape:snap-grids="true"
-     inkscape:lockguides="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
+     inkscape:lockguides="true">
     <sodipodi:guide
        inkscape:locked="true"
        id="guide815"
@@ -88,6 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -95,21 +92,21 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Background"
-     transform="translate(0.13250019,-0.0889373)">
+     sodipodi:insensitive="true">
     <rect
-       style="opacity:0.796;fill:#ffffff;fill-opacity:0.16;stroke:#000000;stroke-width:0.170873;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.981273"
+       style="opacity:0.79599998;fill:#ffffff;fill-opacity:0.16000001;stroke:#000000;stroke-width:0.26499999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.9812734"
        id="rect893"
-       width="318.5274"
-       height="197.59039"
-       x="-0.13250019"
-       y="0.3103748" />
+       width="318.43326"
+       height="475.38004"
+       x="0"
+       y="0.2214375" />
   </g>
   <g
-     transform="translate(0.13250019,179.16108)"
+     transform="translate(0,179.25002)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Grid"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        id="rect817"
@@ -175,46 +172,11 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Boxes"
-     transform="translate(0.13250019,-0.0889373)">
-    <rect
-       style="fill:#ececec;stroke-width:0.264583"
-       id="rect181"
-       width="201.27176"
-       height="115.13913"
-       x="58.655697"
-       y="20.570124"
-       ry="10.434638" />
-    <g
-       id="g5991"
-       transform="translate(3.7361088)"
-       style="fill:#782167">
-      <rect
-         style="fill:#782167;stroke-width:0.158766"
-         id="rect1081"
-         width="35.622791"
-         height="15.648368"
-         x="137.38902"
-         y="109.098"
-         ry="2.3656859" />
-      <text
-         xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';fill:#f6d5ff;stroke-width:0.264583"
-         x="143.06206"
-         y="119.03885"
-         id="text3065"><tspan
-           sodipodi:role="line"
-           id="tspan3063"
-           style="fill:#f6d5ff;stroke-width:0.264583"
-           x="143.06206"
-           y="119.03885">Add User</tspan></text>
-    </g>
-  </g>
+     inkscape:label="Boxes" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Text"
-     transform="translate(0.13250019,-0.0889373)">
+     inkscape:label="Text">
     <flowRoot
        xml:space="preserve"
        id="flowRoot932"
@@ -226,98 +188,16 @@
            x="-566"
            y="382" /></flowRegion><flowPara
          id="flowPara938" /></flowRoot>
-    <g
-       id="g1191">
-      <rect
-         style="fill:#ffffff;stroke-width:0.188192"
-         id="rect461"
-         width="142.31694"
-         height="16.984219"
-         x="87.730698"
-         y="44.427673"
-         ry="3.9424045" />
-      <text
-         xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';fill:#b3b3b3;stroke-width:0.264583"
-         x="92.67067"
-         y="54.509609"
-         id="text935"><tspan
-           sodipodi:role="line"
-           id="tspan933"
-           style="fill:#b3b3b3;stroke-width:0.264583"
-           x="92.67067"
-           y="54.509609">please enter the name</tspan></text>
-    </g>
-    <g
-       id="g1167"
-       transform="translate(0,-3.7041668)">
-      <rect
-         style="fill:#ffffff;stroke-width:0.188192"
-         id="rect955"
-         width="142.31694"
-         height="16.984219"
-         x="87.730698"
-         y="81.048294"
-         ry="3.9424045" />
-      <text
-         xml:space="preserve"
-         style="font-size:5.64444px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';fill:#b3b3b3;stroke-width:0.264583"
-         x="96.555725"
-         y="91.678833"
-         id="text931"><tspan
-           sodipodi:role="line"
-           id="tspan929"
-           style="fill:#b3b3b3;stroke-width:0.264583"
-           x="96.555725"
-           y="91.678833">please enter the age</tspan></text>
-    </g>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';stroke-width:0.264583"
-       x="89.210403"
-       y="36.59943"
-       id="text17377"><tspan
+       x="-87.25634"
+       y="98.344604"
+       id="text5977"><tspan
          sodipodi:role="line"
-         id="tspan17375"
+         id="tspan5975"
          style="stroke-width:0.264583"
-         x="89.210403"
-         y="36.59943">Name</tspan><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="89.210403"
-         y="43.65498"
-         id="tspan17401" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="89.210403"
-       y="36.59943"
-       id="text19731"><tspan
-         sodipodi:role="line"
-         id="tspan19727"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="89.210403"
-         y="36.59943">Name</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="89.210403"
-         y="43.65498"
-         id="tspan19729" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="89.210403"
-       y="72.582756"
-       id="text19755"><tspan
-         sodipodi:role="line"
-         id="tspan19751"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="89.210403"
-         y="72.582756">Age</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="89.210403"
-         y="79.638306"
-         id="tspan19753" /></text>
+         x="-87.25634"
+         y="98.344604">This is Noto Sans 16 px (= 1rem)</tspan></text>
   </g>
 </svg>

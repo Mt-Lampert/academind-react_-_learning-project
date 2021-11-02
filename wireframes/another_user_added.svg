@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1204.5289"
-   height="747.44415"
-   viewBox="0 0 318.69827 197.76127"
+   width="1204.4453"
+   height="965.79095"
+   viewBox="0 0 318.67615 255.5322"
    version="1.1"
    id="svg8"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="landing-page__desktop.svg"
+   sodipodi:docname="another_user_added.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,10 +24,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.89688413"
-     inkscape:cx="568.07784"
-     inkscape:cy="413.65433"
+     inkscape:cx="566.96287"
+     inkscape:cy="381.32016"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      showguides="true"
@@ -77,6 +77,10 @@
        orientation="1,0"
        id="guide919"
        inkscape:locked="true" />
+    <sodipodi:guide
+       position="184.5586,0.097104109"
+       orientation="0,-1"
+       id="guide72071" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -95,17 +99,17 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Background"
-     transform="translate(0.13250019,-0.0889373)">
+     transform="translate(0.12145462,-0.09998288)">
     <rect
-       style="opacity:0.796;fill:#ffffff;fill-opacity:0.16;stroke:#000000;stroke-width:0.170873;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.981273"
+       style="opacity:0.796;fill:#ffffff;fill-opacity:0.16;stroke:#000000;stroke-width:0.19423;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.981273"
        id="rect893"
-       width="318.5274"
-       height="197.59039"
-       x="-0.13250019"
-       y="0.3103748" />
+       width="318.48193"
+       height="255.33795"
+       x="-0.024339614"
+       y="0.19709788" />
   </g>
   <g
-     transform="translate(0.13250019,179.16108)"
+     transform="translate(0.12145462,179.15004)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Grid"
@@ -176,7 +180,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Boxes"
-     transform="translate(0.13250019,-0.0889373)">
+     transform="translate(0.12145462,-0.09998288)">
     <rect
        style="fill:#ececec;stroke-width:0.264583"
        id="rect181"
@@ -209,12 +213,36 @@
            x="143.06206"
            y="119.03885">Add User</tspan></text>
     </g>
+    <rect
+       style="fill:#ececec;stroke-width:0.198411"
+       id="rect31121"
+       width="201.27176"
+       height="64.748039"
+       x="58.655697"
+       y="167.29187"
+       ry="11.964209" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.213724"
+       id="rect31220"
+       width="167.56134"
+       height="17.900045"
+       x="75.51091"
+       y="179.19695"
+       ry="4.2718987" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.213724"
+       id="rect34733"
+       width="167.56134"
+       height="17.900045"
+       x="75.51091"
+       y="203.00943"
+       ry="4.2718987" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Text"
-     transform="translate(0.13250019,-0.0889373)">
+     transform="translate(0.12145462,-0.09998288)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot932"
@@ -289,35 +317,57 @@
          id="tspan17401" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.264583"
        x="89.210403"
        y="36.59943"
        id="text19731"><tspan
          sodipodi:role="line"
          id="tspan19727"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.264583"
          x="89.210403"
          y="36.59943">Name</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.264583"
          x="89.210403"
          y="43.65498"
          id="tspan19729" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.264583"
        x="89.210403"
        y="72.582756"
        id="text19755"><tspan
          sodipodi:role="line"
          id="tspan19751"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.264583"
          x="89.210403"
          y="72.582756">Age</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.264583"
          x="89.210403"
          y="79.638306"
          id="tspan19753" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';fill:#333333;stroke-width:0.264583"
+       x="83.839798"
+       y="189.61452"
+       id="text31565"><tspan
+         sodipodi:role="line"
+         id="tspan31563"
+         style="fill:#333333;stroke-width:0.264583"
+         x="83.839798"
+         y="189.61452">Rich Harris, 37 years old</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';fill:#333333;stroke-width:0.264583"
+       x="83.839798"
+       y="213.427"
+       id="text34737"><tspan
+         sodipodi:role="line"
+         id="tspan34735"
+         style="fill:#333333;stroke-width:0.264583"
+         x="83.839798"
+         y="213.427">Laura Bitchface, 32 years old</tspan></text>
   </g>
 </svg>

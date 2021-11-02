@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1204.5289"
-   height="747.44415"
-   viewBox="0 0 318.69827 197.76127"
+   width="1204.2472"
+   height="928.95813"
+   viewBox="0 0 318.62373 245.78684"
    version="1.1"
    id="svg8"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="landing-page__desktop.svg"
+   sodipodi:docname="adding_error.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.89688413"
-     inkscape:cx="568.07784"
-     inkscape:cy="413.65433"
+     inkscape:zoom="0.31709642"
+     inkscape:cx="-96.185253"
+     inkscape:cy="296.4398"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      showguides="true"
@@ -95,17 +95,17 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Background"
-     transform="translate(0.13250019,-0.0889373)">
+     transform="translate(0.095237,-0.1262005)">
     <rect
-       style="opacity:0.796;fill:#ffffff;fill-opacity:0.16;stroke:#000000;stroke-width:0.170873;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.981273"
+       style="opacity:0.796;fill:#ffffff;fill-opacity:0.16;stroke:#000000;stroke-width:0.190474;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.981273"
        id="rect893"
-       width="318.5274"
-       height="197.59039"
-       x="-0.13250019"
-       y="0.3103748" />
+       width="318.43326"
+       height="245.59636"
+       x="0"
+       y="0.2214375" />
   </g>
   <g
-     transform="translate(0.13250019,179.16108)"
+     transform="translate(0.095237,179.12382)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Grid"
@@ -176,7 +176,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Boxes"
-     transform="translate(0.13250019,-0.0889373)">
+     sodipodi:insensitive="true"
+     transform="translate(0.095237,-0.1262005)">
     <rect
        style="fill:#ececec;stroke-width:0.264583"
        id="rect181"
@@ -185,6 +186,14 @@
        x="58.655697"
        y="20.570124"
        ry="10.434638" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="rect623"
+       width="0.5526787"
+       height="6.6612015"
+       x="232.26654"
+       y="49.721771"
+       ry="0.27633935" />
     <g
        id="g5991"
        transform="translate(3.7361088)"
@@ -209,12 +218,37 @@
            x="143.06206"
            y="119.03885">Add User</tspan></text>
     </g>
+    <rect
+       style="fill:#ececec;stroke-width:0.18515"
+       id="rect31121"
+       width="201.27176"
+       height="56.382442"
+       x="58.655697"
+       y="171.47467"
+       ry="5.1097336" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.213724"
+       id="rect31220"
+       width="167.56134"
+       height="17.900045"
+       x="75.51091"
+       y="179.19695"
+       ry="4.2718987" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.213724"
+       id="rect34733"
+       width="167.56134"
+       height="17.900045"
+       x="75.51091"
+       y="203.00943"
+       ry="4.2718987" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Text"
-     transform="translate(0.13250019,-0.0889373)">
+     sodipodi:insensitive="true"
+     transform="translate(0.095237,-0.1262005)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot932"
@@ -319,5 +353,100 @@
          x="89.210403"
          y="79.638306"
          id="tspan19753" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';stroke-width:0.264583"
+       x="83.839798"
+       y="189.61452"
+       id="text31565"><tspan
+         sodipodi:role="line"
+         id="tspan31563"
+         style="stroke-width:0.264583"
+         x="83.839798"
+         y="189.61452">Rich Harris, 37 years old</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';stroke-width:0.264583"
+       x="83.839798"
+       y="213.427"
+       id="text34737"><tspan
+         sodipodi:role="line"
+         id="tspan34735"
+         style="stroke-width:0.264583"
+         x="83.839798"
+         y="213.427">Laura Bitchface, 32 years old</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Modal"
+     style="opacity:1"
+     sodipodi:insensitive="true"
+     transform="translate(0.095237,-0.1262005)">
+    <rect
+       style="fill:#333333;fill-opacity:0.660812;stroke-width:0.279366"
+       id="rect50987"
+       width="318.43326"
+       height="245.59636"
+       x="4.2632564e-14"
+       y="0.2214375"
+       ry="4.2719092" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.201939"
+       id="rect51149"
+       width="175.76837"
+       height="78.011658"
+       x="71.372398"
+       y="50.159622"
+       ry="0" />
+    <rect
+       style="fill:#660080;stroke-width:0.115399"
+       id="rect52316"
+       width="175.76837"
+       height="25.475657"
+       x="71.372398"
+       y="50.159622"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.35154px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';fill:#ffffff;stroke-width:0.39148"
+       x="134.26048"
+       y="66.023857"
+       id="text54658"><tspan
+         sodipodi:role="line"
+         id="tspan54656"
+         style="fill:#ffffff;stroke-width:0.39148"
+         x="134.26048"
+         y="66.023857">Invalid Input</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.35154px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';fill:#1a1a1a;stroke-width:0.39148"
+       x="110.08703"
+       y="94.672165"
+       id="text56776"><tspan
+         sodipodi:role="line"
+         id="tspan56774"
+         style="fill:#1a1a1a;stroke-width:0.39148"
+         x="110.08703"
+         y="94.672165">This is the error message</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#660080;stroke-width:1.3305;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect57118"
+       width="32.703747"
+       height="12.721448"
+       x="142.52437"
+       y="108.12149"
+       ry="2.6587973" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.81039px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Normal';fill:#660080;fill-opacity:1;stroke:#660080;stroke-width:0.319238;stroke-opacity:1"
+       x="150.54373"
+       y="116.25292"
+       id="text57238"><tspan
+         sodipodi:role="line"
+         id="tspan57236"
+         style="fill:#660080;fill-opacity:1;stroke:#660080;stroke-width:0.319238;stroke-opacity:1"
+         x="150.54373"
+         y="116.25292">Okay</tspan></text>
   </g>
 </svg>

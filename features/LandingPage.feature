@@ -4,6 +4,7 @@ Feature: Landing Page
     I want to open the Landing Page
     In order to Use the app.
 
+    # wireframe: landing-page__desktop.svg
     Scenario: Opening the Landing Page
         When I open the Landing Page
         Then I see a white <div>-box

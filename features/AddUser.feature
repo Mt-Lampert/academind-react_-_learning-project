@@ -4,7 +4,7 @@ Feature: Add User
     I want to add other app users
     In order to have a proper user list
 
-
+    # wireframe: first_user_added.svg
     Scenario: Adding the first user successfully
         Given the landing page has been opened successfully
         And there is no user list on the page yet
@@ -14,6 +14,7 @@ Feature: Add User
         Then a new <div>-box pops up on the page below the form box
         And it shows a text box with the name and the age of the new user.
 
+    # wireframe: another_user_added.svg
     Scenario: Adding another user successfully
         Given the landing page has been opened successfully
         And there exists a user list on the page already
@@ -23,6 +24,7 @@ Feature: Add User
         Then another text box appears inside the list box
         And it shows the name and the age of the new user.
 
+    # wireframe: error_modal.svg
     Scenario: Adding a user without name and age entries
         Given the landing page has been opened successfully
         When I leave the name input field and the age input field blank
