@@ -1,0 +1,53 @@
+.add-user {
+  margin-top: 2rem;
+}
+
+.add-user > button {
+  background-color: var(--main-color);
+  color: var(--box-color);
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 1rem 2rem;
+  border-radius: var(--box-radius);
+}
+
+.add-user > button:hover {
+    background-color: var(--box-color);
+    color: var(--main-color);
+    border: 2px solid var(--main-color);
+}
+
+.new-user {
+  width: var(--box-width);
+  padding: 2rem 3rem;
+  padding-bottom: 4rem;
+  background-color: var(--box-color);
+  color: var(--text-color);
+  border-radius: var(--box-radius);
+}
+
+.new-user input {
+  font-size: 1.25rem;
+}
+
+.new-user label {
+    font-size: 1.25rem;
+}
+
+.new-user__label {
+  margin-top: 2rem;
+  font-weight: bold;
+}
+
+.new-user__input {
+  margin-top: 0.5rem;
+}
+
+.new-user__label,
+.new-user__input {
+  text-align: left;
+}
+
+.new-user__input > input {
+  width: 100%;
+}
