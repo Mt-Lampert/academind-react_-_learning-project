@@ -3,7 +3,6 @@ import "./NewUser.css";
 const NewUser = (props) => {
   return (
     <div className="new-user">
-      <h2>Baustelle: Formular "New User"</h2>
       <div className="new-user__label">
         <label htmlFor="theName">Name</label>
       </div>
