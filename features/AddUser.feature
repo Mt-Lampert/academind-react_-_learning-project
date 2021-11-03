@@ -36,7 +36,8 @@ Feature: Add User
         And the box shows an "Okay" button in its body
         When I click on the "Okay" button or I click on the modal backdrop
         Then the modal disappears again.
-        
+
+    # wireframe: error_modal.svg
     Scenario: Adding a user with an invalid name
         Given the landing page has been opened successfully
         When I add no name or an invalid name in the form
@@ -49,6 +50,7 @@ Feature: Add User
         When I click on the "Okay" button or I click on the modal backdrop
         Then the modal disappears again.
 
+    # wireframe: error_modal.svg
     Scenario: Adding a user with an invalid age
         Given the landing page has been opened successfully
         When I add no name or an invalid name in the form
