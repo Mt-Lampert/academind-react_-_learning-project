@@ -6,16 +6,17 @@ import UserList from "./components/UserList";
 import Modal from "./components/Modal";
 
 function App() {
+  // const myUserList = [
+  //   { id: 1, name: "Rich Harris", age: "37" },
+  //   { id: 2, name: "Laura Bitchface", age: "31" },
+  //   { id: 3, name: "Mark Wilson", age: "25" },
+  // ];
   const myModalData = {
     title: "Error Case Testing",
     msg: "This is the error message for testing",
   };
   const [showModal, setShowModal] = useState(false);
-  const [userList, setUserList] = useState([
-    { id: 1, name: "Rich Harris", age: "37" },
-    { id: 2, name: "Laura Bitchface", age: "31" },
-    { id: 3, name: "Mark Wilson", age: "25" },
-  ]);
+  const [userList, setUserList] = useState([]);
   const [modalData, setModalData] = useState(myModalData);
 
   const addUser = (newUser) => {
@@ -44,7 +45,8 @@ function App() {
           </button>
         </div>
         <NewUser addUser={addUser} />
-        <UserList userList={userList} />
+        {/* Don't display an empty user list */}
+        {userList.length > 0 && <UserList userList={userList} />}
         <Modal show={showModal} hide={toggleModal} data={modalData} />
       </main>
     </div>
