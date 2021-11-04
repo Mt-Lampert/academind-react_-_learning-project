@@ -14,12 +14,14 @@
   padding-top: 20vh;
   display: flex;
   justify-content: center;
+  align-items: flex-start;
 }
 
 .modal-content {
     background-color: #fff;
     border-radius: var(--box-radius);
-    max-height: 30vh;
+    /* max-height: 30vh; */
+    padding-bottom: 2.5em;
 }
 
 .modal-header {
@@ -42,11 +44,12 @@
   color: var(--box-color);
   border-radius: var(--box-radius);
   font-size: 1.25rem;
+  margin-top: 1rem;
   /* font-weight: bold; */
 }
 
 .modal-footer button:hover {
   background-color: white;
   color: var(--main-color);
-  border: 2px solid var(--main-color);
+  border: 3px solid var(--main-color);
 }
