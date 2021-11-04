@@ -21,14 +21,46 @@ function App() {
 
   const addUser = (newUser) => {
     // all validation happens here!
+    if (newUser.name.length === 0 && newUser.age.length === 0) {
+      setModalData(() => {
+        return {
+          title: "No Data Given!",
+          msg: "Please enter the name and the age in the formula.",
+        };
+      });
+      setShowModal(true);
+      return;
+    } else if (
+      newUser.name.length > 0 &&
+      (newUser.age.length === 0 || parseInt(newUser.age) <= 0)
+    ) {
+      setModalData(() => {
+        return {
+          title: "Error: Missing or Invalid age",
+          msg: "Please enter a valid age.",
+        };
+      });
+      setShowModal(true);
+      return;
+    } else if (newUser.name.length === 0 && newUser.age.length > 0) {
+      setModalData(() => {
+        return {
+          title: "Error: Missing Name",
+          msg: "Please enter a valid name.",
+        };
+      });
+      setShowModal(true);
+      return;
+    }
 
     // implicit 'else'
     setUserList(() => [newUser, ...userList]);
   };
 
   const toggleModal = () => {
-    setModalData(myModalData);
+    // setModalData(modalData);
     setShowModal(!showModal);
+    document.getElementById("theName").focus();
   };
 
   return (
@@ -39,11 +71,11 @@ function App() {
       </header>
 
       <main>
-        <div className="modal-toggle">
+        {/* <div className="modal-toggle">
           <button className="toggle-modal" onClick={toggleModal}>
             Toggle Modal
           </button>
-        </div>
+        </div> */}
         <NewUser addUser={addUser} />
         {/* Don't display an empty user list */}
         {userList.length > 0 && <UserList userList={userList} />}

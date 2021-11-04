@@ -4,6 +4,12 @@ Feature: Add User
     I want to add other app users
     In order to have a proper user list
 
+
+    # ===========================================================================
+
+    ###
+    ###  DONE AND COMMITED
+    ###
     # wireframe: first_user_added.svg
     Scenario: Adding the first user successfully
         Given the landing page has been opened successfully
@@ -44,11 +50,11 @@ Feature: Add User
         And I click on the "Add User" button
         Then a modal pops up
         And on the modal a box appears
-        And the box's title shows "Invalid input"
+        And the box's title shows "Error: Missing Name"
         And the box shows "Please enter a valid name."
         And the box shows an "Okay" button
         When I click on the "Okay" button or I click on the modal backdrop
-        Then the modal disappears again.
+        Then the modal disappear
 
     # wireframe: error_modal.svg
     Scenario: Adding a user with an invalid age
@@ -62,4 +68,3 @@ Feature: Add User
         And the box shows an "Okay" button
         When I click on the "Okay" button or I click on the modal backdrop
         Then the modal disappears again.
-
