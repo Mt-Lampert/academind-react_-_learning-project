@@ -7,7 +7,7 @@
   color: var(--box-color);
   font-size: 1rem;
   font-weight: bold;
-  padding: 1rem 2rem;
+  padding: var(--button-padding) ;
   border-radius: var(--box-radius);
 }
 
