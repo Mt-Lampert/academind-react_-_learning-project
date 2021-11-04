@@ -1,6 +1,30 @@
+import { useState } from "react";
+
 import "./NewUser.css";
 
 const NewUser = (props) => {
+  const [userName, setUserName] = useState("");
+  const [userAge, setUserAge] = useState("");
+
+  const handleNameChange = (e) => {
+    setUserName(e.target.value);
+  };
+
+  const handleAgeChange = (e) => {
+    setUserAge(e.target.value);
+  };
+
+  const submitHandler = () => {
+    props.addUser({
+      id: Math.floor(Math.random() * 10000) + 4,
+      name: userName,
+      age: userAge,
+    });
+    setUserName('');
+    setUserAge('');
+    document.getElementById('theName').focus();
+  };
+
   return (
     <div className="new-user">
       <div className="new-user__label">
@@ -11,7 +35,8 @@ const NewUser = (props) => {
           type="text"
           name="theName"
           id="theName"
-          value=""
+          onChange={handleNameChange}
+          value={userName}
           placeholder="Please enter the name"
         />
       </div>
@@ -24,14 +49,14 @@ const NewUser = (props) => {
           type="text"
           name="theAge"
           id="theAge"
-          value=""
+          value={userAge}
           placeholder="Please enter the age"
+          onChange={handleAgeChange}
         />
       </div>
       <div className="add-user">
-        <button>Add User</button>
+        <button onClick={submitHandler}>Add User</button>
       </div>
-
     </div>
   );
 };

@@ -6,9 +6,27 @@ import UserList from "./components/UserList";
 import Modal from "./components/Modal";
 
 function App() {
+  const myModalData = {
+    title: "Error Case Testing",
+    msg: "This is the error message for testing",
+  };
   const [showModal, setShowModal] = useState(false);
+  const [userList, setUserList] = useState([
+    { id: 1, name: "Rich Harris", age: "37" },
+    { id: 2, name: "Laura Bitchface", age: "31" },
+    { id: 3, name: "Mark Wilson", age: "25" },
+  ]);
+  const [modalData, setModalData] = useState(myModalData);
+
+  const addUser = (newUser) => {
+    // all validation happens here!
+
+    // implicit 'else'
+    setUserList(() => [newUser, ...userList]);
+  };
 
   const toggleModal = () => {
+    setModalData(myModalData);
     setShowModal(!showModal);
   };
 
@@ -20,14 +38,14 @@ function App() {
       </header>
 
       <main>
-        <div class="modal-toggle">
-          <button class="toggle-modal" onClick={toggleModal}>
+        <div className="modal-toggle">
+          <button className="toggle-modal" onClick={toggleModal}>
             Toggle Modal
           </button>
         </div>
-        <NewUser />
-        <UserList />
-        <Modal show={showModal} hide={toggleModal} />
+        <NewUser addUser={addUser} />
+        <UserList userList={userList} />
+        <Modal show={showModal} hide={toggleModal} data={modalData} />
       </main>
     </div>
   );

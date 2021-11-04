@@ -17,10 +17,10 @@ const Modal = (props) => {
         }}
       >
         <div className="modal-header">
-          <h2 className="modal-title">Error Title</h2>
+          <h2 className="modal-title">{props.data.title}</h2>
         </div>
         <div className="modal-body">
-          Error: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          {props.data.msg}
         </div>
         <div className="modal-footer">
           <button onClick={props.hide}>Okay</button>
