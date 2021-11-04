@@ -1,0 +1,37 @@
+
+.modal {
+    width: var(--box-width);
+    border-radius: var(--box-radius);
+    border: 2px solid var(--text-color);
+    padding-bottom: 2rem;
+    /* background-color: wheat; */
+}
+
+.modal-header {
+    background-color: var(--main-color);
+    color: var(--box-color);
+    padding: 1rem 2rem;
+    border-top-left-radius: var(--box-radius) ;
+    border-top-right-radius: var(--box-radius);
+}
+
+.modal-body {
+    padding: var(--box-padding);
+    font-size: 1.5rem;
+    color: var(--text-color);
+}
+
+.modal-footer button {
+    padding: var(--button-padding);
+    background-color: var(--main-color);
+    color: var(--box-color);
+    border-radius: var(--box-radius);
+    font-size: 1.25rem;
+    /* font-weight: bold; */
+}
+
+.modal-footer button:hover {
+    background-color: white;
+    color: var(--main-color);
+    border: 2px solid var(--main-color);
+}
